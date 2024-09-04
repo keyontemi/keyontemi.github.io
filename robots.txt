@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://keyontemi.github.io/sitemap.html.gz
+Sitemap: https://keyontemi.github.io/app/sitemap.html.gz
+Sitemap: https://keyontemi.github.io/assets/sitemap.html.gz
+Sitemap: https://keyontemi.github.io/css/sitemap.html.gz
+Sitemap: https://keyontemi.github.io/includes/sitemap.html.gz
+Sitemap: https://keyontemi.github.io/item/sitemap.html.gz
+Sitemap: https://keyontemi.github.io/src/sitemap.html.gz
